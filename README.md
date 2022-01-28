@@ -2,7 +2,7 @@
 
 
 🔭 Hoje trabalho com Suporte e Front-End...<br>
-🌱 Atualmente estudando React Native, Javascript, HTML e CSS...<br>
+🌱 Atualmente estudando Dart, Flutter, React Native, Javascript, HTML e CSS...<br>
 🤔 Estou em busca de amigos para estudar...<br>
 
 <div align="center">

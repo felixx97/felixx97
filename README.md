@@ -1,9 +1,9 @@
 # Hello Hello, I'm Félix 👋
 
 
-🔭 Hoje trabalho com Suporte e Front-End...<br>
-🌱 Atualmente estudando Dart, Flutter, React Native, Javascript, HTML e CSS...<br>
-🤔 Estou em busca de amigos para estudar...<br>
+🔭 Hoje sou Desenvolvedor bolsista no laboratório de telemedicina do Hospital da Universidade Federal de Santa Catarina.<br>
+🌱 Atualmente estudando Python, Javacript, HTML e CSS.<br>
+🤔 Gosto de pensar que um dia serei rico<br>
 
 <div align="center">
   <a href="https://github.com/felixx97">

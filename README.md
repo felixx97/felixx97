@@ -2,7 +2,7 @@
 
 
 🔭 Hoje sou Desenvolvedor bolsista no laboratório de telemedicina do Hospital da Universidade Federal de Santa Catarina.<br>
-🌱 Atualmente estudando Python, Javacript, HTML e CSS.<br>
+🌱 Atualmente estudando Python e Javacript<br>
 🤔 Gosto de pensar que um dia serei rico<br>
 
 <div align="center">

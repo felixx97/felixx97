@@ -1,4 +1,4 @@
-# Hello Hello, I'm Félix 👋
+# Call me Félix 👋
 
 
 🔭 Hoje sou Desenvolvedor bolsista no laboratório de telemedicina do Hospital da Universidade Federal de Santa Catarina.<br>

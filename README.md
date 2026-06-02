@@ -9,6 +9,8 @@ Bem-vindo ao meu GitHub!
   <img align="center" alt="Felix-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felix-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Felix-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Felix-Python" height="30" width="40" src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png">
+  <img align="center" alt="Felix-Python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/3840px-Vitejs-logo.svg.png">
 </div>
 
 ##

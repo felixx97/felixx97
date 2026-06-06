@@ -10,6 +10,7 @@ Bem-vindo ao meu GitHub!
   <img align="center" alt="Felix-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felix-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Felix-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Felix-Flutter" height="30" width="40" src="https://img.icons8.com/color/1200/flutter.jpg">
   <img align="center" alt="Felix-antigravity" height="30" width="40" src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png">
 </div>
 
